@@ -26,7 +26,7 @@ export default class FormDialog extends React.Component {
         aria-label="form-dialog-title"
     >
         <DialogContent>
-            <DialogContentText>Mail successfully send</DialogContentText>
+            <DialogContentText>Mail successfully sent</DialogContentText>
         </DialogContent>
         <DialogActions>
         <Button onClick={this.handleClose} color="primary">
